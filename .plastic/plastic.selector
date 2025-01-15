@@ -1,0 +1,4 @@
+repository "spellofwizard/spellofwizard@1375763182861@cloud"
+  path "/"
+    br "/main"
+    co "/main"
